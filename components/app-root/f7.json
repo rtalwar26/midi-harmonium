@@ -1,0 +1,7 @@
+{
+    "dependencies": [
+      {"path": "framework7/dist/css/framework7.rtl.md.css"},
+      {"path": "framework7/dist/js/framework7.js"}
+  
+    ]
+  }
