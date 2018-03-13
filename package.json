@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "dropify": "^0.2.2",
-    "electron": "^1.7.9",
+    "electron": "^1.7.11",
     "framework7": "^2.0.0-beta.17",
     "gun": "^0.9.93",
     "hammerjs": "^2.0.8",
